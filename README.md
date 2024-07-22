@@ -1,11 +1,6 @@
 # End to End Nutritionist Gen AI App
  - In this project I have built an app that calculates the total calories from a food image provided and tell whether it's good to eat the food or not.
 
-![Competitive Ads Analysis App Image](./images/competitive%20ads%20analysis.png)
-
-## DEMO
- - You can try the project live [here](https://8503-01hzs47rf1dj8zjg1r2hffyrp1.cloudspaces.litng.ai)
-
 
 ## Libraries Used
  - streamlit
