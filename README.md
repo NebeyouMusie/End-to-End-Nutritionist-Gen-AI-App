@@ -1,6 +1,14 @@
 # End to End Nutritionist Gen AI App
  - In this project I have built an app that calculates the total calories from a food image provided and tell whether it's good to eat the food or not.
 
+# NOTICE
+ - Due to Deprecation of Gemini 1.0 Pro Vision from Google AI for Developers I've changed the model to `gemini-1.5-flash`. And at the moment this model can't analyse images.But, you can have a look at the implementation code.
+
+![Competitive Ads Analysis App Image](./images/health%20app.png)
+
+## DEMO
+ - You can try the project live [here](https://gen-ai-health-app.streamlit.app/)
+
 
 ## Libraries Used
  - streamlit
