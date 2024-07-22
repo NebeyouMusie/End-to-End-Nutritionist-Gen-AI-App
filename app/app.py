@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 from utils import get_gemini_response, input_image_setup
 
 st.set_page_config(page_title="Gemini Health App")

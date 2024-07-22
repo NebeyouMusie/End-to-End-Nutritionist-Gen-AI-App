@@ -1,6 +1,5 @@
 from config import get_google_api_key, load_config
 import google.generativeai as genai
-from PIL import Image
 
 load_config()
 genai.configure(api_key=get_google_api_key())
