@@ -4,7 +4,7 @@
 ## NOTICE!!
  - Due to Deprecation of Gemini 1.0 Pro Vision from Google AI for Developers I've changed the model to `gemini-1.5-flash`. And at the moment this model can't analyse images.But, you can have a look at the implementation code.
 
-![Competitive Ads Analysis App Image](./images/health%20app.png)
+![AI Health UI Image](./images/health%20app.png)
 
 ## DEMO
  - You can try the project live [here](https://gen-ai-health-app.streamlit.app/)
